@@ -7,7 +7,7 @@ import InvPending from "./invPending";
 import InvAllSupplies from "./invAllSupplies";
 import InvLowStock from "./invLowStock";
 import InvRequests from "./invRequests";
-import InvLedger from "./invLedger";
+import InvLedger from "./InvLedger";
 import InvSuppliers from "./invSuppliers";
 
 const navItems = [
